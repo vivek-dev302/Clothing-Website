@@ -1,0 +1,50 @@
+[
+  {
+    "id": "WN-8842",
+    "boutiqueId": "streetform-studio",
+    "boutiqueName": "StreetForm Studio",
+    "status": "en_route",
+    "statusLabel": "#WN-8842 en route",
+    "etaMinutes": 8,
+    "etaLabel": "8m doorstep",
+    "courierName": "Ravi Kumar",
+    "courierTransport": "Zero-Emission E-Cargo Bike",
+    "courierPhone": "+91 98100 55194",
+    "steamedGuarantee": true,
+    "doorstepFittingWindowMinutes": 10,
+    "createdAt": "2026-09-15T12:35:00Z",
+    "items": [
+      {
+        "id": "prod-mac-01",
+        "name": "Waterproof Membrane Mac",
+        "size": "M",
+        "color": "Matte Obsidian",
+        "price": 340,
+        "quantity": 1,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA2VxtOaS0xWt7J9d8K3rJnkgq-q0gUWu_jk923tuBrGlsY_gGLdLfT83taKWa5S4Azn-n5-G7v4qbSWss8nz9ltmuew-sbZ-4j98zXsLcKXEB7s9wSyk7iQzvi3A-Q3JAzG8WDPDtBzbT-GTX62oFotOFJX3ffFkmOJcFqPzvUWZwrYQnjfFXid96d4tn0XD1sOnGcugWFmEtCB2SJqW2NyIVt4NdSg6Lb0y5PjgxpzBxH6EUgG0gY"
+      },
+      {
+        "id": "prod-tee-01",
+        "name": "Boxy Slate Heavyweight Tee",
+        "size": "L",
+        "color": "Slate Gray",
+        "price": 85,
+        "quantity": 1,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBNjhxRcBCmm3fmZ--6izTUKaBTWSRtmpWzM7sUgwXeSlnMw1p77ylfBGrXr4SHzfGa1re9aGwVuxC2fQOPJlMwRg9bzLrCTr9j063Rj6RWkXMwYc8k-HjPhW-sqxoD0VlvyiGKG0UJ5yYQvIA3PkEIAqU4j6lEuMh7UuNdA1Z6ltBzDycraQr9K6Lbgb5cwN5Ld6GPsp0kj5K8ReXT7iBcb_BtxQTyJ1-8H2M40aiHrclfXtbHORJn"
+      }
+    ],
+    "pricing": {
+      "subtotal": 425,
+      "expressCourierFee": 0,
+      "garmentInsurance": 4.50,
+      "total": 429.50
+    },
+    "timeline": [
+      { "step": "order_placed", "title": "Order Placed", "time": "12:35 PM", "completed": true },
+      { "step": "boutique_packing", "title": "Boutique Packing & Steaming", "time": "12:38 PM", "completed": true },
+      { "step": "courier_dispatched", "title": "Courier Dispatched", "time": "12:41 PM", "completed": true },
+      { "step": "en_route", "title": "Out for Doorstep Delivery", "time": "12:45 PM", "completed": true, "current": true },
+      { "step": "delivered", "title": "Doorstep Fitting & Mirror Check", "time": "Est 12:53 PM", "completed": false }
+    ]
+  }
+]

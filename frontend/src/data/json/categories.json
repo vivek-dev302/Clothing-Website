@@ -1,0 +1,9 @@
+[
+  { "id": "all", "name": "All Items", "count": 42 },
+  { "id": "shirting", "name": "Shirting & Tops", "count": 14 },
+  { "id": "tailoring", "name": "Tailoring & Blazers", "count": 8 },
+  { "id": "outerwear", "name": "Outerwear & Jackets", "count": 9 },
+  { "id": "trousers", "name": "Trousers & Pants", "count": 11 },
+  { "id": "dresses", "name": "Dresses & Silks", "count": 7 },
+  { "id": "knits", "name": "Merino & Knits", "count": 6 }
+]
